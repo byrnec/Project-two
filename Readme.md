@@ -1,4 +1,4 @@
-# Project-two: "the goodreads for movies and tv shows but even much better :-)"
+The Goodreads for Movies and TV shows
 
 ## Overview
 
